@@ -11,7 +11,7 @@ Google Apps Scriptを用いて、NotebookLMで出力したPDF形式のスライ�
    <img width="322" height="146" alt="Image" src="https://github.com/user-attachments/assets/981d3934-01cd-4488-a886-08f3f1b623c7" />  
    ↓  
    <img width="506" height="485" alt="Image" src="https://github.com/user-attachments/assets/41a2f63e-f69a-4de9-8452-e483b0ee2395" />  
-2. スクリプトエディタ上に本リポジトリのcode.gsの内容を貼り付ける。
+2. 開いたスクリプトエディタ上のコード.gsに本リポジトリの <a href="https://github.com/kotakahashi-4u/GASApp4NotebookLMSlide2GoogleSlide/blob/main/code.gs" target="_blank">code.gs</a>(Windows: **Ctrl+Click** / Mac: **Cmd+Click**) の内容をコピーして、貼り付ける。  
    <img width="594" height="241" alt="Image" src="https://github.com/user-attachments/assets/473ef00e-b9f0-4b07-b007-bf0825e9a53f" />  
 3. GASの認証処理を行うため、processBatchSlidesを実行する。
    1. 実行関数からprocessBatchSlidesを選択する。
